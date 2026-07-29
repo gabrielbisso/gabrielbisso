@@ -8,11 +8,11 @@
 
 <table align="center">
   <tr>
+    <!-- <td>
+      <img align="center" src="https://vercel.app" alt="Github Stats"/>
+    </td> -->
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbisso&&theme=dark&show_icons=true" alt="Github Stats"/>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbisso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielbisso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
     </td>
   </tr>
 </table>
